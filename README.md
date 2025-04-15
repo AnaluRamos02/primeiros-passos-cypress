@@ -8,7 +8,7 @@ npm install
 ```
 >**NODE:**
 >
-> it is necessary to have **node** 
+> it is necessary to have **node** installed
 
 ## Running
 ```bash
