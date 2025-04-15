@@ -6,7 +6,6 @@ class Menupage {
 
         return selectors
     }
-
     accessMyInfo() {
         cy.get(this.selectorsList().myInfoButton).click()
     }
